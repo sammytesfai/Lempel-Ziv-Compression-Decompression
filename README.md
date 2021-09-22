@@ -1,4 +1,4 @@
-**Title:** Lempel-Ziv Compression
+**Title:** Lempel-Ziv Compression (UCSC CSE13S Assignment by Professor Dunne)
 
 **Description:** This program is to simulate the Lempel-Ziv lossless compression and decompression of data for any file type. 
 The program utilizes a Trie ADT for the compression of data by associating a code to a symbol and inserting this pair into the 
